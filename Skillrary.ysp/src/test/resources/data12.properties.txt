@@ -1,0 +1,4 @@
+Browser Chrome
+Url     https://demoapp.skillrary.com/login.php?type=login
+Username admin
+Password admin
